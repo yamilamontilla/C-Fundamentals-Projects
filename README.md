@@ -1,4 +1,4 @@
-# C Mini Projects
+# C Fundamentals Projects
 
 This repository contains a collection of small C programming exercises developed as part of my university coursework.  
 Each file addresses a specific programming concept such as recursion, matrix manipulation, sorting algorithms, and more.
