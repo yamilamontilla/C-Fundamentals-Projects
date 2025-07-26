@@ -1,7 +1,6 @@
 # C Fundamentals Projects
 
-This repository contains a collection of small C programming exercises developed as part of my university coursework.  
-Each file addresses a specific programming concept such as recursion, matrix manipulation, sorting algorithms, and more.
+This repository contains a collection of small C programs developed during my university coursework. Each exercise focuses on fundamental programming concepts such as memory management, file input/output, recursion, sorting algorithms, and basic data structures. These projects have been essential for developing my problem-solving skills and understanding how to write efficient code.
 
 ## Projects Included
 
